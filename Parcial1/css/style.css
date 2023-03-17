@@ -1,0 +1,12 @@
+.text {
+    font-family: 'Bungee Spice',cursive;
+    font-size: 60px;
+    color: #00539F;
+    text-align: center;
+}
+img {
+    display: block;
+    width: 1600px;
+    height: 900;
+    margin: 0 auto;
+  }
